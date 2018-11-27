@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithmsbook/algorithmsbook.iml" filepath="$PROJECT_DIR$/algorithmsbook/algorithmsbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review.iml" filepath="$PROJECT_DIR$/review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixingongzhonghao/weixingongzhonghao.iml" filepath="$PROJECT_DIR$/weixingongzhonghao/weixingongzhonghao.iml" />
+    </modules>
+  </component>
+</project>
