@@ -1,7 +1,5 @@
 package chapter1.exercise1_1.exer_1_1_27;
 
-import javax.sound.midi.Soundbank;
-
 public class BinomialTest {
     public static double binomial(int N, int k, double p){
         if (N == 0 && k == 0){
