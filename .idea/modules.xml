@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithmsbook/algorithmsbook.iml" filepath="$PROJECT_DIR$/algorithmsbook/algorithmsbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niucodervideo/niucodervideothird.iml" filepath="$PROJECT_DIR$/niucodervideo/niucodervideothird.iml" />
       <module fileurl="file://$PROJECT_DIR$/offeralgorithm/offeralgorithm.iml" filepath="$PROJECT_DIR$/offeralgorithm/offeralgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/review.iml" filepath="$PROJECT_DIR$/review.iml" />
       <module fileurl="file://$PROJECT_DIR$/weixingongzhonghao/weixingongzhonghao.iml" filepath="$PROJECT_DIR$/weixingongzhonghao/weixingongzhonghao.iml" />
